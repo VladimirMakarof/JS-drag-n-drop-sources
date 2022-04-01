@@ -1,6 +1,6 @@
 # JS-drag-n-drop-sources
 
-*Drag & Drop, создав мини-клон Trello. Подходит для перетаскивания товаров в корзину или task-трекера. Посмотреть можно <code>[здесь.](https://vladimirmakarof.github.io/cards-sources-js/ "github page")
+*Drag & Drop, создав мини-клон Trello. Подходит для перетаскивания товаров в корзину или task-трекера. Посмотреть можно <code>[здесь.](https://vladimirmakarof.github.io/JS-drag-n-drop-sources/ "github page")
 </code>*
 
 
